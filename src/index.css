@@ -5,3 +5,88 @@
 html, body, #root {
   height: 100%;
 }
+
+/* ============ PRINT ============ */
+@media print {
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    color-adjust: exact !important;
+  }
+
+  /* Papel sin márgenes (el navegador/printer puede imponer un mínimo físico) */
+  @page {
+    size: auto;
+    margin: 0 !important;
+  }
+
+  html, body, #root {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  .cv-print {
+    width: 100% !important; 
+    max-width: none !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    overflow: visible !important;
+  }
+
+  button, .no-print {
+    display: none !important;
+  }
+
+  /* Evitar filtros que a veces rompen impresión */
+  .backdrop-blur, .backdrop-blur-sm,
+  .backdrop-blur-md, .backdrop-blur-lg {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+
+  /* Header: mantener el gradiente en impresión */
+  .cv-header {
+    background: linear-gradient(90deg, #7c3aed, #2563eb, #0d9488) !important;
+    color: #fff !important;
+  }
+  .cv-header * {
+    color: #fff !important;
+  }
+
+  /* Chips: visibles sobre el gradiente */
+  .contact-pill {
+    background: rgba(255, 255, 255, 0.20) !important;
+    border: 1px solid rgba(255, 255, 255, 0.35) !important;
+    box-shadow: none !important;
+  }
+  .contact-pill svg {
+    color: #fff !important;
+  }
+
+  .print-decor {
+    display: none !important;
+  }
+
+  /* Evitar cortes feos dentro de cards */
+  .bg-white, .rounded-lg {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Sombras fuera (mejor para PDF) */
+  .shadow-2xl, .shadow-xl,
+  .shadow-lg, .shadow-md {
+    box-shadow: none !important;
+  }
+
+  /* Mejora el diseño de la impresion de la siguiente pagina */
+  .print-new-page {
+    break-before: page !important;
+    page-break-before: always !important; 
+    margin-top: 5mm !important;
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+}
