@@ -1,6 +1,6 @@
 // CreativeCV.tsx (o .jsx)
 import { Mail, Phone, MapPin, Cloud, Trophy } from "lucide-react";
-import avatar from "./assets/Avatar.jpeg";
+import avatar from "./assets/Avatar.png";
 
 export function CreativeCV() {
   return (
@@ -97,7 +97,7 @@ export function CreativeCV() {
               </div>
               <ul className="text-sm text-gray-700 space-y-1">
                 <li>✦ Desarrolle y lidere el despliegue de aplicaciones web empresariales</li>
-                <li>✦ Implementé prácticas de observabilidad y trazabilidad para reducir tiempos de resolución</li>
+                <li>✦ Optimicé el rendimiento y la escalabilidad de aplicaciones críticas, mejorando la experiencia del usuario</li>
                 <li>✦ Gestione y resolvi incidentes de alta y mediana complejidad</li>
               </ul>
             </div>
