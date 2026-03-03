@@ -50,7 +50,7 @@ export function CreativeCV() {
             Perfil Profesional
           </h2>
           <p className="text-gray-700 leading-relaxed">
-            Ingeniero de Software en formación, enfocado en construir 
+            Ingeniero de Software realizando los ultimos semestres, enfocado en construir 
             aplicaciones sólidas y escalables. Aporto excelencia técnica e innovación, 
             participando en el levantamiento de requerimientos, 
             ejecución de proyectos y adopción de arquitectura para entregar 
