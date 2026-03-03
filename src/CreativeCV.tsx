@@ -97,7 +97,7 @@ export function CreativeCV() {
               </div>
               <ul className="text-sm text-gray-700 space-y-1">
                 <li>✦ Desarrolle y lidere el despliegue de aplicaciones web empresariales</li>
-                <li>✦ Optimicé el rendimiento y la escalabilidad de las aplicaciones, mejorando la experiencia del usuario</li>
+                <li>✦ Optimicé rendimiento y escalabilidad de las aplicaciones, mejorando la experiencia del usuario</li>
                 <li>✦ Gestione y resolvi incidentes de alta y mediana complejidad</li>
               </ul>
             </div>
