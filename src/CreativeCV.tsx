@@ -92,7 +92,7 @@ export function CreativeCV() {
                   <p className="text-purple-600 font-semibold">CALLTECH SA</p>
                 </div>
                 <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded-full">
-                  Enero/2022 - Enero/2024
+                  Febrero/2024 - Octubre/2025
                 </span>
               </div>
               <ul className="text-sm text-gray-700 space-y-1">
