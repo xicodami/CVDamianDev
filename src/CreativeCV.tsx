@@ -153,7 +153,6 @@ export function CreativeCV() {
                 <span className="bg-blue-200 text-blue-800 px-2 py-1 rounded text-xs font-semibold">Docker</span>
                 <span className="bg-blue-200 text-blue-800 px-2 py-1 rounded text-xs font-semibold">Kubernetes</span>
                 <span className="bg-blue-200 text-blue-800 px-2 py-1 rounded text-xs font-semibold">GitHub Actions</span>
-                <span className="bg-blue-200 text-blue-800 px-2 py-1 rounded text-xs font-semibold">Jenkings</span>
               </div>
             </div>
           </div>
