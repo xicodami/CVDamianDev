@@ -73,9 +73,7 @@ export function CreativeCV() {
                   <h3 className="text-lg font-bold text-gray-900">Coordinador de Desarrollo de Software</h3>
                   <p className="text-purple-600 font-semibold">REVIENTA SAS</p>
                 </div>
-                <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded-full">
-                  Octubre/2025 - Enero/2025
-                </span>
+                <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded-full">Octubre/2025 - Enero/2026</span>
               </div>
               <ul className="text-sm text-gray-700 space-y-1">
                 <li>✦ Lidere la implementacion de arquitecturas modernas (Clean Architecture e integración con servicios cloud)</li>
