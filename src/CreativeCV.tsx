@@ -49,12 +49,12 @@ export function CreativeCV() {
             <span className="w-2 h-2 bg-purple-600 rounded-full" />
             Perfil Profesional
           </h2>
-          <p className="text-gray-700 leading-relaxed">
-            Ingeniero de Software realizando los ultimos semestres de la carrera, enfocado en construir 
-            aplicaciones sólidas y escalables. Aporto excelencia técnica e innovación, 
-            participando en el levantamiento de requerimientos, 
-            ejecución de proyectos y adopción de arquitectura para entregar 
-            resultados de alto impacto.
+          <p className="text-gray-700 leading-relaxed"> 
+            Ingeniero de Software con experiencia en desarrollo de aplicaciones empresariales 
+            sobre .NET y SQL Server, enfocado en la modernización de sistemas, 
+            optimización de bases de datos y desarrollo de soluciones escalables. 
+            Experiencia en mantenimiento evolutivo de software ERP, integración de procesos de negocio 
+            y uso de herramientas de Inteligencia Artificial para aumentar la productividad y calidad del desarrollo.
           </p>
         </div>
 
