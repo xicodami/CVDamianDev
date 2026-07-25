@@ -50,11 +50,9 @@ export function CreativeCV() {
             Perfil Profesional
           </h2>
           <p className="text-gray-700 leading-relaxed"> 
-            Ingeniero de Software con experiencia en desarrollo de aplicaciones empresariales 
-            sobre .NET y SQL Server, enfocado en la modernización de sistemas, 
-            optimización de bases de datos y desarrollo de soluciones escalables. 
-            Experiencia en mantenimiento evolutivo de software ERP, integración de procesos de negocio 
-            y uso de herramientas de Inteligencia Artificial para aumentar la productividad y calidad del desarrollo.
+            Ingeniero de Software con sólida trayectoria en aplicaciones empresariales (.NET / SQL Server). 
+            Especialista en modernizar sistemas, optimizar bases de datos y diseñar soluciones de alto rendimiento. 
+            Integro procesos de negocio e impulso el ciclo de vida del software mediante herramientas de Inteligencia Artificial.
           </p>
         </div>
 
