@@ -64,6 +64,7 @@ export function CreativeCV() {
           </h2>
 
           <div className="space-y-6">
+            
             <div className="relative pl-8 border-l-2 border-purple-300">
               <div className="absolute left-0 top-0 w-4 h-4 bg-blue-600 rounded-full -ml-[9px]" />
               <div className="flex justify-between items-start mb-2">
@@ -97,6 +98,24 @@ export function CreativeCV() {
                 <li>✦ Colabore en procesos de modernización tecnológica y migración de aplicaciones legacy</li>
                 <li>✦ Oriente y capacite a los nuevos miembros del equipo</li>
                 <li>✦ Optimice procedimientos almacenados de la base de datos</li>
+              </ul>
+            </div>
+
+            <div className="relative pl-8 border-l-2 border-purple-300">
+              <div className="absolute left-0 top-0 w-4 h-4 bg-blue-600 rounded-full -ml-[9px]" />
+              <div className="flex justify-between items-start mb-2">
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">Supervisor</h3>
+                  <p className="text-purple-600 font-semibold">Global Connection LYP</p>
+                </div>
+                <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded-full">
+                  Agosto/2018 - Octubre/2021
+                </span>
+              </div>
+              <ul className="text-sm text-gray-700 space-y-1">
+                <li>✦ Orientación y capacitación para la venta de productos</li>
+                <li>✦ Comunicación y paciencia para lograr objetivos de ventas</li>
+                <li>✦ Desarrollo y dirección de eventos de publicidad</li>
               </ul>
             </div>
           </div>
