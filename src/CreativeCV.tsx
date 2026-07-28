@@ -65,22 +65,6 @@ export function CreativeCV() {
 
           <div className="space-y-6">
             <div className="relative pl-8 border-l-2 border-purple-300">
-              <div className="absolute left-0 top-0 w-4 h-4 bg-purple-600 rounded-full -ml-[9px]" />
-              <div className="flex justify-between items-start mb-2">
-                <div>
-                  <h3 className="text-lg font-bold text-gray-900">Coordinador de Desarrollo de Software</h3>
-                  <p className="text-purple-600 font-semibold">REVIENTA SAS</p>
-                </div>
-                <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded-full">Octubre/2025 - Enero/2026</span>
-              </div>
-              <ul className="text-sm text-gray-700 space-y-1">
-                <li>✦ Lidere la implementacion de arquitecturas modernas (Clean Architecture e integración con servicios cloud)</li>
-                <li>✦ Coordiné equipos multidisciplinarios (Desarrollo, QA, Infraestructura y DevOps)</li>
-                <li>✦ Implementé prácticas de observabilidad y monitoreo para garantizar estabilidad y diagnóstico proactivo de incidentes</li>
-              </ul>
-            </div>
-
-            <div className="relative pl-8 border-l-2 border-purple-300">
               <div className="absolute left-0 top-0 w-4 h-4 bg-blue-600 rounded-full -ml-[9px]" />
               <div className="flex justify-between items-start mb-2">
                 <div>
