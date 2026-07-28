@@ -83,7 +83,7 @@ export function CreativeCV() {
               </ul>
             </div>
 
-            <div className="relative pl-8">
+            <div className="relative pl-8 border-l-2 border-purple-300">
               <div className="absolute left-0 top-0 w-4 h-4 bg-teal-600 rounded-full -ml-[9px]" />
               <div className="flex justify-between items-start mb-2">
                 <div>
