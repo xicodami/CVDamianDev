@@ -52,9 +52,7 @@ export function CreativeCV() {
           <p className="text-gray-700 leading-relaxed"> 
             Ingeniero de Desarrollo de Software con sólida trayectoria técnica y marcada orientación al desarrollo de negocios y ventas estratégicas. 
             Especialista en traducir necesidades complejas de clientes e industrias en soluciones tecnológicas de alto impacto. 
-            Cuento con capacidad comprobada para liderar ciclos de venta y negociación estratégica. 
-            Mi formación en ingeniería me permite estructurar procesos comerciales basados en datos, 
-            entender profundamente el producto y generar confianza inmediata en decisiones técnicas y ejecutivas.
+            Combino la capacidad técnica de arquitectura y desarrollo con habilidades avanzadas de negociación, estrategia comercial y atención al cliente.
           </p>
         </div>
 
