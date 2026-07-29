@@ -50,7 +50,7 @@ export function CreativeCV() {
             Perfil Profesional
           </h2>
           <p className="text-gray-700 leading-relaxed"> 
-            Ingeniero de Desarrollo de Software con sólida trayectoria técnica y marcada orientación al desarrollo de negocios y ventas estratégicas. 
+            Estudiante de ingeniería de Software con sólida trayectoria técnica y marcada orientación al desarrollo de negocios y ventas estratégicas. 
             Especialista en traducir necesidades complejas de clientes e industrias en soluciones tecnológicas de alto impacto. 
             Combino la capacidad técnica de arquitectura y desarrollo con habilidades avanzadas de negociación, estrategia comercial y atención al cliente.
           </p>
